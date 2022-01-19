@@ -17,5 +17,5 @@ while target_ball_count != 0
   pp "ans: #{ans_str}"
 end
 
-# 
+# 実行順の出力
 puts ans_str.reverse
