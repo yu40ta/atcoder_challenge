@@ -14,5 +14,5 @@ set.each do |x|
     break
   end
 end
- 
+
 puts ans
